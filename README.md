@@ -3,6 +3,11 @@ An implementation of the FM partitioning algorithm. We also add a genetic algori
 
 Use `make run` to test the code yourself.
 
+If this repository is helpful to you please remember to cite the project write-up in your work. Thank you!
+
+`Kowalski, Jan Stefan. A Genetic Addition to Fiduccia-Mattheyses. 3 Oct. 2020.`  
+`@misc{Kowalski_2020, title={A genetic addition to Fiduccia-Mattheyses}, author={Kowalski, Jan Stefan}, year={2020}, month={Oct}} `
+
 ## Background
 
 The notions of  cells and nets are essential to understanding this code. Cells represent VLSI circuits that occupy area on a chip. Nets represent the interconnect between cells, connecting inputs and outputs.
